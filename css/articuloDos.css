@@ -1,9 +1,18 @@
 body{
-    background-color:whitesmoke;
     background-position: center center;
     background-repeat: no-repeat;
     color:darkslategrey;
     font-family: Verdana, Tahoma, sans-serif;  
+}
+#contenido .art1{
+    height: 1280px;
+    background-color: #bee3be;
+    text-align: justify;
+}
+#contenido .art2{
+    height: 1060px;
+    background-color: #aeaac4;
+    text-align: justify;
 }
 
 .ImageBorder {
@@ -19,9 +28,10 @@ body{
 }
 
 #contenido .row .introduction{
-    background-color: #a6a093;
-    margin-bottom: 50px;
+    background-color: white;
+    margin-bottom: 0px;
     margin-top: 50px;
+    height: 490px;
 }
 .container-fluid2{
     height: 50px;
@@ -53,7 +63,7 @@ footer{
 
   #contenido .art1 .row{
     text-align: justify;
-    background-color: whitesmoke;
+
 }
   
   #contenido h2{
